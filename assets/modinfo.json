@@ -3,9 +3,9 @@
     "name": "Rainworld Splitscreen",
     "version": "0.1.0",
     "authors": "none",
-    "description": "Dynamic Splitscreen for 2-4 players",
+    "description": "Dynamische Splitscreen-Unterstützung für 2-4 Spieler im lokalen Mehrspieler-Modus. Teilt den Bildschirm automatisch auf, wenn die Spieler sich zu weit voneinander entfernen, und führt ihn wieder zusammen, wenn sie sich nähern.",
     "requirements": [],
     "requirements_names": [],
-    "tags": [],
+    "tags": ["Gameplay", "Multiplayer", "UI"],
     "checksum_override_version": false
 }
